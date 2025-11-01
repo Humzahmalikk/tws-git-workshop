@@ -1,0 +1,8 @@
+### Git Commands
+
+- git init
+- git status
+- git add *file-name (adds it to staging)*
+- git commit -m “added *file-name*” (takes file to Tracked)
+- git restore f*ile-name (restores deleted file)*
+- git push
